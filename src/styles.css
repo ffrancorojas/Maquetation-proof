@@ -1,0 +1,8 @@
+body {
+  background-image: url("./assets/map.jpg");
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
